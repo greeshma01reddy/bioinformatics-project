@@ -2,7 +2,9 @@
 RNA Structural Motif Classification using Machine Learning 
 
 This project presents an end to end Machine Learning framework for analyzing and classifying RNA structural motifs using large scale biological data. The dataset contains over 200,000 RNA motif samples across 25 structural classes with 84 continuous structural and torsion angle features. 
-The project explores multiple traditional Machine Learning algorithms and a Deep Learning model to identify the most effective approach for multi class RNA motif classification. The workflow includes data preprocessing, exploratory data analysis, feature scaling, model training, hyperparameter tuning, performance evaluation, and visualization.  
+The project explores multiple traditional Machine Learning algorithms and a Deep Learning model to identify the most effective approach for multi class RNA motif classification. The workflow includes data preprocessing, exploratory data analysis, feature scaling, model training, hyperparameter tuning, performance evaluation, and visualization. 
+
+
 
 
 Features

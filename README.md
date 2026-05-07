@@ -9,7 +9,7 @@ Multi class classification of RNA motifs
 Implementation of:
 Logistic Regression
 Random Forest
-Support Vector Machine (SVM)
+Support Vector Machine (SVM) 
 Multilayer Perceptron (MLP)
 Hyperparameter tuning using GridSearchCV and RandomizedSearchCV
 Model evaluation using Accuracy, Precision, Recall, F1-score, ROC-AUC, and Confusion Matrix

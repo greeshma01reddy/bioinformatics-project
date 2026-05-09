@@ -1,0 +1,17 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod] 
+
+# Large Bioinformatics Data (Crucial!)
+# Ignores large raw data files, but keeps your scripts
+*.fasta
+*.fastq
+*.bam
+*.csv
+*.tsv
+!data/metadata_sample.csv  
+
+# System junk
+.DS_Store
+Thumbs.db

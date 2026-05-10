@@ -25,7 +25,7 @@ Feature importance analysis using Random Forest
 Prototype deployment using Streamlit
 
 
-Technologies Used
+Technologies Used : 
 Python
 Pandas
 NumPy
@@ -33,9 +33,10 @@ Scikit learn
 Matplotlib
 Seaborn
 Streamlit
-Results
 
 
+
+Results : 
 Among all evaluated models, Random Forest achieved the best performance with approximately 94% classification accuracy on the test dataset, demonstrating strong capability in learning complex non-linear RNA structural patterns. 
 
 

@@ -7,7 +7,7 @@ The project explores multiple traditional Machine Learning algorithms and a Deep
 
 
 
-Features
+Features  
 Data preprocessing and missing value handling
 Exploratory Data Analysis (EDA) with plots and heatmaps
 Multi class classification of RNA motifs
